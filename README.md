@@ -4,6 +4,6 @@ Features:
 Data Preprocessing: Includes handling missing values and scaling features.
 Machine Learning Models: Utilizes Logistic Regression.
 Evaluation Metrics: Measures model performance using accuracy.
-Results
+Results:
 The model achieved the following performance metrics:
 Accuracy: [0.1]
